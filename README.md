@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there
 
-<!--
-**Arsy357/Arsy357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student who’s currently learning and building things step by step.
+Interested in programming, data analysis, and exploring how things work under the hood.
 
-Here are some ideas to get you started:
+📊 Learning data science & statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Working with Python, MATLAB, NumPy, Pandas, Matplotlib
+
+📈 Interested in machine learning and data visualization
+
+🌱 Still learning, still improving
+
+Mostly using this GitHub to store projects, assignments, and experiments.
+
+Feel free to look around.
